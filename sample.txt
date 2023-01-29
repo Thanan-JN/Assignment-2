@@ -1,2 +1,2 @@
-this is an another sample file in sub branch.
-there is a change in sub branch.
+This is an another sample file in sub branch.
+There is a change in sub branch.
